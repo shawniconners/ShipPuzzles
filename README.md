@@ -1,2 +1,2 @@
 # ShipPuzzles
-Source for iOS PhoneGap app ShipPuzzles
+Source code for iOS PhoneGap app ShipPuzzles
